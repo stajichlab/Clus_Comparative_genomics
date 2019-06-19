@@ -1,9 +1,10 @@
 #Species,Strain,Prefix,Source,Version,Download_link
 Candida auris,B8441,CaurisB8441,FungiDB,2017-11-15,
 Candida albicans,SC5314,CalbicansSC5314,FungiDB,A22-s07-m01-r59,
+Candida tenuis,ATCC 10573,CtenATCC10573,Ensembl,gca_000223465,fungi_ascomycota1_collection/_candida_tenuis_atcc_10573_gca_000223465
 Candida parapsilosis,CDC317,CparapsilosisCDC317,FungiDB,2018-08-19,
 Clavisopora lusitaniae,ATCC 42720,ClusitaniaeATCC42720,FungiDB,2015-03-23,
 Clavisopora lusitaniae,L17,ClusL17,Local,2019-05-01,
-Pichia kudriavzevii,SD108,PkudSD108,Ensembl,ASM76445v1,fungi_ascomycota1_collection/pichia_kudriavzevii_gca_000764455
-Pichia membranifaciens,NRRL Y-2026,PmemNRRLY2026,Ensembl,gca_001661235,fungi_ascomycota3_collection/pichia_membranifaciens_nrrl_y_2026_gca_001661235
+Debaryomyces hansenii,CBS 767,DhanCBS767,Ensembl,gca_000006445,fungi_ascomycota1_collection/debaryomyces_hansenii_cbs767_gca_000006445
 Metschnikowia bicuspidata var bicuspidata,NRRL YB-4993,Ensembl,gca_001664035,fungi_ascomycota3_collection/metschnikowia_bicuspidata_var_bicuspidata_nrrl_yb_4993_gca_001664035
+Candida inconspicua,CBS 180,CANINC,GenBank,gca_004931855.1,GCA/004/931/855/GCA_004931855.1_ASM493185v1
